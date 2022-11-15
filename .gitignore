@@ -1,0 +1,5 @@
+# ignore all .pdf, .docx files, and checkpoints files
+
+.ipynb_checkpoints
+*.pdf
+*.docx
