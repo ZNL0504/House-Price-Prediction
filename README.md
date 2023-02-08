@@ -13,6 +13,10 @@
 ## Author
 - Zhinan Li
 
+## Project Oultline and Workflow
+
+<img src="project-outline-workflow.png" height="400"/> 
+
 ## Table of Contents
 - [1. Understand the Problem](#1)
   - [1.1 Data Science Topics](#1.1)
