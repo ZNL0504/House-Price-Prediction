@@ -15,7 +15,7 @@
 
 ## Project Oultline and Workflow
 
-<img src="project-outline-workflow.png" height="360"/> 
+<img src="project-outline-workflow.png" height="350"/> 
 
 ## Table of Contents
 - [1. Understand the Problem](#1)
